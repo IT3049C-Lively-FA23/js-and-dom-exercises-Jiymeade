@@ -7,16 +7,17 @@
 Instructions to this assignment can be found [here](https://reedws.github.io/IT3049C/coursework/labs/js-and-dom-exercises/).
 - [x] update the assignment checks above to the correct link. - Done Automatically
 ## Checklist:
-- [ ] update the assignment checks above to the correct link
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x ] update the assignment checks above to the correct link
+- [ x] All Unit tests passed.
+- [x ] filled out the self-evaluation.
+- [ x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (You may base this on the number of exercises you were able to complete)
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment: 20/20
 
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
+I learned about Cypress, I have never used cypress at any point in my life just like npm run until thia class. I am really glad there are features like that because it detects errors in the coding along with test it. Cypress detected the error in the spelling of the characters. 
 
-### How long it took you to finish this?
+### How long it took you to finish this? Personally, I believe with coding and making sure it passes the Cypress or Npm test; It took a couple of hours. The coding was ok but then their were little issues like in the word counter i spelled Characters wrong, Value had a big V which caused errors, and other things of that sort. 
